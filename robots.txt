@@ -22,4 +22,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 
-Sitemap: https://planstra.org/sitemap.xml
+Sitemap: https://planstra.pro/sitemap.xml

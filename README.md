@@ -3,7 +3,7 @@
 **Brand strategy builder** — 45 slides, from PESTLE and SWOT through
 positioning and mission to a blue ocean strategy canvas.
 
-Open beta: **https://planstra.org** · Russian edition: **https://planstra.ru**
+Open beta: **https://planstra.pro** · Russian edition: **https://planstra.ru**
 
 ## What it is
 
